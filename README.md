@@ -3,7 +3,7 @@
 
 ## Índice
 1. **[Montar un Phishing desde 0 | Yes We Tech y Google 🐟](#1--montar-un-phishing-desde-0--yes-we-tech-y-google-)**
-2. **[OSINT | Yes We Tech, UAM Hispasec y Google 🔍](#2--ctf-bandit--yes-we-tech-uam-hispasec-y-google-)** 
+2. **[CTF Bandit | Yes We Tech, UAM Hispasec y Google 🔍](#2--ctf-bandit--yes-we-tech-uam-hispasec-y-google-)** 
 3. **[Taller OSINT + Ingeniería Social 🛡️](#3--taller-osint--ingenier%C3%ADa-social-%EF%B8%8F)**  
 
 ## 1- Montar un Phishing desde 0 | Yes We Tech y Google 🐟
